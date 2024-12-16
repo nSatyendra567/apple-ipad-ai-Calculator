@@ -26,7 +26,7 @@ An advanced, responsive calculator application designed to replicate the design 
 
 2. Navigate to the project directory:
    ```bash
-   cd apple-ipad-calculator
+   cd apple-ipad-ai-Calculator
    ```
 
 3. Install dependencies:
